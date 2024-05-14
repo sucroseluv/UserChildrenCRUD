@@ -1,3 +1,5 @@
+# The NestJS server application, which allows you to register a user, get an access token and add up to 5 of his children.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
